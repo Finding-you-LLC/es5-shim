@@ -1,5 +1,7 @@
 # es5-shim <sup>[![Version Badge][npm-version-svg]][npm-url]</sup>
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/es-shims/es5-shim.svg)](https://greenkeeper.io/)
+
 [![npm badge][npm-badge-png]][npm-url]
 
 [![Build Status][travis-svg]][travis-url]
